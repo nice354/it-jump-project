@@ -1,6 +1,6 @@
 import vk_api, json, random, time
 
-vk = vk_api.VkApi(token="b285cce2a8e87ab1e485ef1eada50293c74d66ec816cfe4d3fdc35fb4c4f9bde3eec015e767ddcefd10c3")
+vk = vk_api.VkApi(token="")
 
 def get_button(label, color, payload=""):
     return {
