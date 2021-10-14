@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardRemove, \
 
 
 
-BOT_TOKEN = "2065141310:AAHPAcs299x1jCWXOTfIwt4mOR_ZtXRQ_O4"
+BOT_TOKEN = ""
 
 
 bot = Bot(token=BOT_TOKEN)
